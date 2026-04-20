@@ -11,7 +11,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<a href="https://aman-0402.github.io/aman.ai/" target="_blank">
+<a href="https://github.com/charanbatakala37" target="_blank">
   <img src="https://img.shields.io/badge/🚀_Explore_My_AI_Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a><br>
 <sub>✨ Live | AI Projects | Full Stack Systems | Real World Solutions</sub>
@@ -83,15 +83,15 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-raj-081905211">
+<a href="https://github.com/charanbatakala37">
 <img src="https://img.shields.io/badge/LinkedIn-Charan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/Code_Like_Aman">
+<a href="https://github.com/charanbatakala37">
 <img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="mailto:aman08.stars@gmail.com">
+<a href="https://github.com/charanbatakala37">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -99,7 +99,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 <img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/aman08_stars">
+<a href="https://github.com/charanbatakala37">
 <img src="https://img.shields.io/badge/HackerRank-Charan-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
