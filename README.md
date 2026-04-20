@@ -87,7 +87,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 <img src="https://img.shields.io/badge/LinkedIn-Charan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/charanbatakala37">
+<a href="https://x.com/charan_batakala">
 <img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
